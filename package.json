@@ -3,7 +3,7 @@
    "version": "0.1.0",
    "displayName": "App Core",
    "description": "Architecture for rapid prototyping and creating game projects.\nEasy start in implementing your scenarios",
-   "unity": "2020.0",
+   "unity": "2023.1",
    "unityRelease": "0b4",
    "author": {
       "name": "Notteam",
