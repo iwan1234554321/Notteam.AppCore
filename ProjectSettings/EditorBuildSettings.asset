@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Notteam.AppCore/Scenes/Boot.unity
+    guid: 8e84dc9857e00da4da8ed1ccd5d900db
+  - enabled: 1
+    path: Assets/Notteam.AppCore/Scenes/Load.unity
+    guid: 840d5e688debf334b862494a1b1ac7d9
+  - enabled: 1
+    path: Assets/Notteam.AppCore/Scenes/Menu.unity
+    guid: d2a7a4573e167174bb9adb1d20787ba1
+  - enabled: 1
+    path: Assets/Notteam.AppCore/Scenes/Level.unity
+    guid: 5bb86e9208af07548b6ac506fc5caec4
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
